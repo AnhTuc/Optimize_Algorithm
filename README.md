@@ -1,2 +1,2 @@
 # Optimize_Algorithm
-C++ version projects on Optimize Algorithm for class
+C++ version projects on Optimizing Algorithm for class
